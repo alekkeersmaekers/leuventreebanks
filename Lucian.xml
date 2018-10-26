@@ -128,7 +128,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 <word ref='Leuven|0062-020|5|5' id='5' form='ὦ' lemma='ὦ' postag='i--------' relation='AuxZ' head='6'/>
 <word ref='Leuven|0062-020|5|6' id='6' form='Προμηθεῦ' lemma='Προμηθεύς' postag='n-s---mv-' relation='ExD' head='0'/>
 <word ref='Leuven|0062-020|5|7' id='7' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='6'/>
-<word ref='Leuven|0062-020|5|8' id='8' form='ἀλλ£' lemma='ἀλλά' postag='c--------' relation='COORD' head='0'/>
+<word ref='Leuven|0062-020|5|8' id='8' form='ἀλλ̓' lemma='ἀλλά' postag='c--------' relation='COORD' head='0'/>
 <word ref='Leuven|0062-020|5|9' id='9' form='ἀνάβαινε' lemma='ἀναβαίνω' postag='v2spma---' relation='PRED_CO' head='10'/>
 <word ref='Leuven|0062-020|5|10' id='10' form='καὶ' lemma='καί' postag='c--------' relation='COORD' head='8'/>
 <word ref='Leuven|0062-020|5|11' id='11' form='πάρεχε' lemma='παρέχω' postag='v2spma---' relation='PRED_CO' head='10'/>
@@ -193,7 +193,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 <word ref='Leuven|0062-020|8|14' id='14' form=';' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
 </sentence>
 <sentence id='9' document_id='0062-020' subdoc=' 1-21'>
-<word ref='Leuven|0062-020|9|1' id='1' form='ἀλλ£' lemma='ἀλλά' postag='i--------' relation='AuxY' head='2'/>
+<word ref='Leuven|0062-020|9|1' id='1' form='ἀλλ̓' lemma='ἀλλά' postag='i--------' relation='AuxY' head='2'/>
 <word ref='Leuven|0062-020|9|2' id='2' form='ὄρεγε' lemma='ὀρέγω' postag='v2spma---' relation='PRED' head='0'/>
 <word ref='Leuven|0062-020|9|3' id='3' form='τὴν' lemma='ὁ' postag='l-s---fa-' relation='ATR' head='4'/>
 <word ref='Leuven|0062-020|9|4' id='4' form='δεξιάν' lemma='δεξιά' postag='n-s---fa-' relation='OBJ' head='2'/>
@@ -316,7 +316,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 <word ref='Leuven|0062-020|15|2' id='2' form='γὰρ' lemma='γάρ' postag='d--------' relation='AuxY' head='1'/>
 <word ref='Leuven|0062-020|15|3' id='3' form='Ἡσιόδου' lemma='Ἡσίοδος' postag='n-s---mg-' relation='SBJ' head='7'/>
 <word ref='Leuven|0062-020|15|4' id='4' form='νὴ' lemma='νή' postag='r--------' relation='AuxP' head='5'/>
-<word ref='Leuven|0062-020|15|5' id='5' form='Δί£' lemma='Ζεύς' postag='n-s---ma-' relation='ExD' head='0'/>
+<word ref='Leuven|0062-020|15|5' id='5' form='Δί̓' lemma='Ζεύς' postag='n-s---ma-' relation='ExD' head='0'/>
 <word ref='Leuven|0062-020|15|6' id='6' form='οὕτως' lemma='οὕτως' postag='d--------' relation='ADV' head='7'/>
 <word ref='Leuven|0062-020|15|7' id='7' form='εἰπόντος' lemma='λέγω' postag='v-sapamg-' relation='OBJ' head='1'/>
 <word ref='Leuven|0062-020|15|8' id='8' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
@@ -388,7 +388,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 <word ref='Leuven|0062-020|19|16' id='16' form='μοι' lemma='ἐγώ' postag='p1s---cd-' relation='OBJ' head='17'/>
 <word ref='Leuven|0062-020|19|17' id='17' form='προφέρεις' lemma='προφέρω' postag='v2spia---' relation='ATR' head='7'/>
 <word ref='Leuven|0062-020|19|18' id='18' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='17'/>
-<word ref='Leuven|0062-020|19|19' id='19' form='ἐφ£' lemma='ἐπí' postag='r--------' relation='AuxP' head='32'/>
+<word ref='Leuven|0062-020|19|19' id='19' form='ἐφ̓' lemma='ἐπí' postag='r--------' relation='AuxP' head='32'/>
 <word ref='Leuven|0062-020|19|20' id='20' form='οἷς' lemma='ὅς' postag='p-p---md-' relation='ADV' head='19'/>
 <word ref='Leuven|0062-020|19|21' id='21' form='ἔγωγε' lemma='ἐγώ' postag='p1s---cn-' relation='SBJ' head='32'/>
 <word ref='Leuven|0062-020|19|22' id='22' form='τῆς' lemma='ὁ' postag='l-s---fg-' relation='ATR' head='25'/>
@@ -473,7 +473,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 <word ref='Leuven|0062-020|23|4' id='4' form='περιμένειν' lemma='περιμένω' postag='v--pna---' relation='SBJ' head='5'/>
 <word ref='Leuven|0062-020|23|5' id='5' form='ἀναγκαῖον' lemma='ἀναγκαῖος' postag='a-s---na-' relation='PNOM' head='0'/>
 <word ref='Leuven|0062-020|23|6' id='6' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='11'/>
-<word ref='Leuven|0062-020|23|7' id='7' form='ἔστ£' lemma='ἔστε' postag='c--------' relation='AuxC' head='4'/>
+<word ref='Leuven|0062-020|23|7' id='7' form='ἔστ̓' lemma='ἔστε' postag='c--------' relation='AuxC' head='4'/>
 <word ref='Leuven|0062-020|23|8' id='8' form='ἂν' lemma='ἄν1' postag='d--------' relation='AuxY' head='11'/>
 <word ref='Leuven|0062-020|23|9' id='9' form='ὁ' lemma='ὁ' postag='l-s---mn-' relation='ATR' head='10'/>
 <word ref='Leuven|0062-020|23|10' id='10' form='ἀετὸς' lemma='ἀετός' postag='n-s---mn-' relation='SBJ' head='11'/>
@@ -548,7 +548,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 </sentence>
 <sentence id='27' document_id='0062-020' subdoc=' 1-21'>
 <word ref='Leuven|0062-020|27|1' id='1' form='μὰ' lemma='μά' postag='r--------' relation='AuxP' head='2'/>
-<word ref='Leuven|0062-020|27|2' id='2' form='Δί£' lemma='Ζεύς' postag='n-s---ma-' relation='ExD' head='0'/>
+<word ref='Leuven|0062-020|27|2' id='2' form='Δί̓' lemma='Ζεύς' postag='n-s---ma-' relation='ExD' head='0'/>
 <word ref='Leuven|0062-020|27|3' id='3' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='2'/>
 <word ref='Leuven|0062-020|27|4' id='4' form='ἀλλὰ' lemma='ἀλλά' postag='c--------' relation='AuxY' head='8'/>
 <word ref='Leuven|0062-020|27|5' id='5' form='κατήγορον' lemma='κατήγορον' postag='n-s---ma-' relation='OCOMP' head='10'/>
@@ -624,7 +624,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 <word ref='Leuven|0062-020|31|7' id='7' form='δικανικοῖς' lemma='δικανικός' postag='a-p---md-' relation='ATR' head='5'/>
 <word ref='Leuven|0062-020|31|8' id='8' form='εἰμι' lemma='εἰμί' postag='v1spia---' relation='PRED_CO' head='10'/>
 <word ref='Leuven|0062-020|31|9' id='9' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='8'/>
-<word ref='Leuven|0062-020|31|10' id='10' form='ἀλλ£' lemma='ἀλλʼ' postag='c--------' relation='COORD' head='0'/>
+<word ref='Leuven|0062-020|31|10' id='10' form='ἀλλ̓' lemma='ἀλλʼ' postag='c--------' relation='COORD' head='0'/>
 <word ref='Leuven|0062-020|31|11' id='11' form='ἀμφὶ' lemma='ἀμφί' postag='r--------' relation='AuxP' head='14'/>
 <word ref='Leuven|0062-020|31|12' id='12' form='τὴν' lemma='ὁ' postag='l-s---fa-' relation='ATR' head='13'/>
 <word ref='Leuven|0062-020|31|13' id='13' form='κάμινον' lemma='κάμινος' postag='n-s---fa-' relation='ADV' head='11'/>
@@ -676,7 +676,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 </sentence>
 <sentence id='34' document_id='0062-020' subdoc=' 1-21'>
 <word ref='Leuven|0062-020|34|1' id='1' form='πλὴν' lemma='πλήν' postag='d--------' relation='ADV' head='13'/>
-<word ref='Leuven|0062-020|34|2' id='2' form='ἀλλ£' lemma='ἀλλά' postag='c--------' relation='AuxY' head='13'/>
+<word ref='Leuven|0062-020|34|2' id='2' form='ἀλλ̓' lemma='ἀλλά' postag='c--------' relation='AuxY' head='13'/>
 <word ref='Leuven|0062-020|34|3' id='3' form='εἰ' lemma='εἰ' postag='c--------' relation='AuxC' head='13'/>
 <word ref='Leuven|0062-020|34|4' id='4' form='καὶ' lemma='καί' postag='c--------' relation='AuxY' head='11'/>
 <word ref='Leuven|0062-020|34|5' id='5' form='τοῦτο' lemma='οὗτος' postag='p-s---na-' relation='OBJ' head='11'/>
@@ -753,7 +753,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 <word ref='Leuven|0062-020|35|55' id='55' form='τὸ' lemma='ὁ' postag='l-s---na-' relation='ATR' head='56'/>
 <word ref='Leuven|0062-020|35|56' id='56' form='πῦρ' lemma='πῦρ' postag='n-s---na-' relation='OBJ' head='60'/>
 <word ref='Leuven|0062-020|35|57' id='57' form='κλέψας' lemma='κλέπτω' postag='v-sapamn-' relation='AtvV' head='60'/>
-<word ref='Leuven|0062-020|35|58' id='58' form='παρ£' lemma='παρά' postag='r--------' relation='AuxP' head='57'/>
+<word ref='Leuven|0062-020|35|58' id='58' form='παῤ' lemma='παρά' postag='r--------' relation='AuxP' head='57'/>
 <word ref='Leuven|0062-020|35|59' id='59' form='ἡμῶν' lemma='ἡμεῖς' postag='p1p---cg-' relation='ADV' head='58'/>
 <word ref='Leuven|0062-020|35|60' id='60' form='ἐκόμισας' lemma='κομίζω' postag='v2saia---' relation='PRED_CO' head='54'/>
 <word ref='Leuven|0062-020|35|61' id='61' form='ἐς' lemma='εἰς' postag='r--------' relation='AuxP' head='60'/>
@@ -981,7 +981,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 <word ref='Leuven|0062-020|42|17' id='17' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='16'/>
 <word ref='Leuven|0062-020|42|18' id='18' form='ἀπομνημονεύειν' lemma='ἀπομνημονεύω' postag='v--pna---' relation='OBJ_CO' head='20'/>
 <word ref='Leuven|0062-020|42|19' id='19' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='20'/>
-<word ref='Leuven|0062-020|42|20' id='20' form='ἀλλ£' lemma='ἀλλά' postag='c--------' relation='COORD' head='14'/>
+<word ref='Leuven|0062-020|42|20' id='20' form='ἀλλ̓' lemma='ἀλλά' postag='c--------' relation='COORD' head='14'/>
 <word ref='Leuven|0062-020|42|21' id='21' form='εἰ' lemma='εἰ' postag='c--------' relation='AuxC' head='30'/>
 <word ref='Leuven|0062-020|42|22' id='22' form='καί' lemma='καί' postag='c--------' relation='AuxZ' head='24'/>
 <word ref='Leuven|0062-020|42|23' id='23' form='τι' lemma='τις' postag='p-s---nn-' relation='SBJ' head='24'/>
@@ -1080,7 +1080,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 <word ref='Leuven|0062-020|43|15' id='15' form='οὐχ' lemma='οὐ' postag='d--------' relation='AuxZ' head='20'/>
 <word ref='Leuven|0062-020|43|16' id='16' form='ὅπως' lemma='ὅπως' postag='c--------' relation='AuxY' head='20'/>
 <word ref='Leuven|0062-020|43|17' id='17' form='τηλικαῦτα' lemma='τηλικοῦτος' postag='p-p---na-' relation='OBJ' head='20'/>
-<word ref='Leuven|0062-020|43|18' id='18' form='ἐπ£' lemma='ἐπί' postag='r--------' relation='AuxP' head='20'/>
+<word ref='Leuven|0062-020|43|18' id='18' form='ἐπ̓' lemma='ἐπί' postag='r--------' relation='AuxP' head='20'/>
 <word ref='Leuven|0062-020|43|19' id='19' form='αὐτοῖς' lemma='αὐτός' postag='p-p---nd-' relation='OBJ' head='18'/>
 <word ref='Leuven|0062-020|43|20' id='20' form='ἀγανακτήσειν' lemma='ἀγανακτέω' postag='v--fna---' relation='OBJ_CO' head='21'/>
 <word ref='Leuven|0062-020|43|21' id='21' form='καὶ' lemma='καί' postag='c--------' relation='COORD' head='10'/>
@@ -1106,7 +1106,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 </sentence>
 <sentence id='44' document_id='0062-020' subdoc=' 1-21'>
 <word ref='Leuven|0062-020|44|1' id='1' form='τίθει' lemma='τίθημι' postag='v2spma---' relation='PRED' head='0'/>
-<word ref='Leuven|0062-020|44|2' id='2' form='δ£' lemma='δʼ' postag='d--------' relation='AuxY' head='1'/>
+<word ref='Leuven|0062-020|44|2' id='2' form='δ̓' lemma='δʼ' postag='d--------' relation='AuxY' head='1'/>
 <word ref='Leuven|0062-020|44|3' id='3' form='ὅμως' lemma='ὅμως' postag='d--------' relation='AuxY' head='1'/>
 <word ref='Leuven|0062-020|44|4' id='4' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='6'/>
 <word ref='Leuven|0062-020|44|5' id='5' form='ὦ' lemma='ὦ' postag='i--------' relation='AuxZ' head='6'/>
@@ -1124,7 +1124,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 <word ref='Leuven|0062-020|44|17' id='17' form='Διί' lemma='Ζεύς' postag='n-s---md-' relation='OBJ' head='15'/>
 <word ref='Leuven|0062-020|44|18' id='18' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
 <word ref='Leuven|0062-020|44|19' id='19' form='τὴν' lemma='ὁ' postag='l-s---fa-' relation='ATR' head='21'/>
-<word ref='Leuven|0062-020|44|20' id='20' form='δ£' lemma='δʼ' postag='d--------' relation='COORD' head='10'/>
+<word ref='Leuven|0062-020|44|20' id='20' form='δ̓' lemma='δʼ' postag='d--------' relation='COORD' head='10'/>
 <word ref='Leuven|0062-020|44|21' id='21' form='ὅλην' lemma='ὅλος' postag='a-s---fa-' relation='OBJ' head='22'/>
 <word ref='Leuven|0062-020|44|22' id='22' form='ὑφῃρῆσθαι' lemma='ὑφαιρέω' postag='v--rne---' relation='OBJ_AP_CO' head='20'/>
 <word ref='Leuven|0062-020|44|23' id='23' form='·' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
@@ -1232,7 +1232,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 <word ref='Leuven|0062-020|49|23' id='23' form=';' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
 </sentence>
 <sentence id='50' document_id='0062-020' subdoc=' 1-21'>
-<word ref='Leuven|0062-020|50|1' id='1' form='ἀλλ£' lemma='ἀλλʼ' postag='c--------' relation='AuxY' head='5'/>
+<word ref='Leuven|0062-020|50|1' id='1' form='ἀλλ̓' lemma='ἀλλʼ' postag='c--------' relation='AuxY' head='5'/>
 <word ref='Leuven|0062-020|50|2' id='2' form='ὅμως' lemma='ὅμως' postag='d--------' relation='AuxY' head='5'/>
 <word ref='Leuven|0062-020|50|3' id='3' form='ἐκείνων' lemma='ἐκεῖνος' postag='p-p---mg-' relation='PNOM' head='5'/>
 <word ref='Leuven|0062-020|50|4' id='4' form='οὐκ' lemma='οὐ' postag='d--------' relation='AuxZ' head='5'/>
@@ -1285,7 +1285,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 <word ref='Leuven|0062-020|51|15' id='15' form='ἀνεσκολοπίσθη' lemma='ἀνασκολοπίζω' postag='v3saip---' relation='PRED_CO' head='16'/>
 <word ref='Leuven|0062-020|51|16' id='16' form='δὲ' lemma='δέ' postag='c--------' relation='COORD' head='0'/>
 <word ref='Leuven|0062-020|51|17' id='17' form='οὐδεὶς' lemma='οὐδείς' postag='p-s---mn-' relation='SBJ' head='15'/>
-<word ref='Leuven|0062-020|51|18' id='18' form='παρ£' lemma='παρά' postag='r--------' relation='AuxP' head='15'/>
+<word ref='Leuven|0062-020|51|18' id='18' form='παῤ' lemma='παρά' postag='r--------' relation='AuxP' head='15'/>
 <word ref='Leuven|0062-020|51|19' id='19' form='αὐτοῖς' lemma='αὐτός' postag='p-p---md-' relation='ADV' head='18'/>
 <word ref='Leuven|0062-020|51|20' id='20' form='τῶν' lemma='ὁ' postag='l-p---ng-' relation='ATR' head='21'/>
 <word ref='Leuven|0062-020|51|21' id='21' form='τηλικούτων' lemma='τηλικοῦτος' postag='p-p---ng-' relation='ADV' head='22'/>
@@ -1342,7 +1342,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 <word ref='Leuven|0062-020|54|11' id='11' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='8'/>
 <word ref='Leuven|0062-020|54|12' id='12' form='οὐκ' lemma='οὐ' postag='d--------' relation='AuxZ' head='13'/>
 <word ref='Leuven|0062-020|54|13' id='13' form='οἶδα' lemma='οἶδα' postag='v1sria---' relation='PRED' head='0'/>
-<word ref='Leuven|0062-020|54|14' id='14' form='καθ£' lemma='κατά' postag='r--------' relation='AuxP' head='18'/>
+<word ref='Leuven|0062-020|54|14' id='14' form='καθ̓' lemma='κατά' postag='r--------' relation='AuxP' head='18'/>
 <word ref='Leuven|0062-020|54|15' id='15' form='ὁπότερον' lemma='ὁπότερος' postag='p-s---na-' relation='OBJ' head='14'/>
 <word ref='Leuven|0062-020|54|16' id='16' form='αἰτιᾶσθέ' lemma='αἰτιάομαι' postag='v2ppie---' relation='OBJ' head='13'/>
 <word ref='Leuven|0062-020|54|17' id='17' form='μου' lemma='ἐγώ' postag='p1s---cg-' relation='OBJ' head='16'/>
@@ -1357,7 +1357,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 <word ref='Leuven|0062-020|54|26' id='26' form='ἀνθρώπους' lemma='ἄνθρωπος' postag='n-p---ma-' relation='SBJ' head='27'/>
 <word ref='Leuven|0062-020|54|27' id='27' form='γεγονέναι' lemma='γίγνομαι' postag='v--rna---' relation='SBJ' head='24'/>
 <word ref='Leuven|0062-020|54|28' id='28' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='29'/>
-<word ref='Leuven|0062-020|54|29' id='29' form='ἀλλ£' lemma='ἀλλά' postag='c--------' relation='COORD' head='20'/>
+<word ref='Leuven|0062-020|54|29' id='29' form='ἀλλ̓' lemma='ἀλλά' postag='c--------' relation='COORD' head='20'/>
 <word ref='Leuven|0062-020|54|30' id='30' form='ἄμεινον' lemma='ἀγαθός' postag='a-s---nnc' relation='PNOM' head='31'/>
 <word ref='Leuven|0062-020|54|31' id='31' form='ἦν' lemma='ἠμί' postag='v1siia---' relation='OBJ_CO' head='29'/>
 <word ref='Leuven|0062-020|54|32' id='32' form='ἀτρεμεῖν' lemma='ἀτρεμέω' postag='v--pna---' relation='SBJ' head='31'/>
@@ -1613,7 +1613,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 <word ref='Leuven|0062-020|62|4' id='4' form='τοῦτο' lemma='οὗτος' postag='p-s---na-' relation='SBJ' head='3'/>
 <word ref='Leuven|0062-020|62|5' id='5' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='7'/>
 <word ref='Leuven|0062-020|62|6' id='6' form='εὐμηχανώτατον' lemma='εὐμήχανος' postag='a-s---nas' relation='PNOM_CO' head='11'/>
-<word ref='Leuven|0062-020|62|7' id='7' form='δ£' lemma='δέ' postag='d--------' relation='COORD' head='3'/>
+<word ref='Leuven|0062-020|62|7' id='7' form='δ̓' lemma='δέ' postag='d--------' relation='COORD' head='3'/>
 <word ref='Leuven|0062-020|62|8' id='8' form='ἄλλως' lemma='ἄλλoς' postag='d--------' relation='AuxZ' head='7'/>
 <word ref='Leuven|0062-020|62|9' id='9' form='καὶ' lemma='καί' postag='c--------' relation='AuxY' head='11'/>
 <word ref='Leuven|0062-020|62|10' id='10' form='συνετώτατον' lemma='συνετός' postag='a-s---nas' relation='PNOM_CO' head='11'/>
@@ -1689,7 +1689,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 <word ref='Leuven|0062-020|66|4' id='4' form='ἔοικε' lemma='ἔοικα' postag='v3sria---' relation='ExD' head='3'/>
 <word ref='Leuven|0062-020|66|5' id='5' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='4'/>
 <word ref='Leuven|0062-020|66|6' id='6' form='τὸ' lemma='ὁ' postag='l-s---na-' relation='ADV' head='11'/>
-<word ref='Leuven|0062-020|66|7' id='7' form='ἀπ£' lemma='ἀπό' postag='r--------' relation='AuxP' head='6'/>
+<word ref='Leuven|0062-020|66|7' id='7' form='ἀπ̓' lemma='ἀπό' postag='r--------' relation='AuxP' head='6'/>
 <word ref='Leuven|0062-020|66|8' id='8' form='ἐκείνου' lemma='ἐκεῖνος' postag='p-s---ng-' relation='ATR' head='7'/>
 <word ref='Leuven|0062-020|66|9' id='9' form='ἧττον' lemma='ἥσσων' postag='a-s---nac' relation='ADV' head='10'/>
 <word ref='Leuven|0062-020|66|10' id='10' form='θεοὶ' lemma='θεός' postag='n-p---mn-' relation='PNOM' head='11'/>
@@ -1736,7 +1736,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 <word ref='Leuven|0062-020|67|26' id='26' form='καὶ' lemma='καί' postag='d--------' relation='AuxZ' head='27'/>
 <word ref='Leuven|0062-020|67|27' id='27' form='οὗτοι' lemma='οὗτος' postag='p-p---mn-' relation='SBJ' head='32'/>
 <word ref='Leuven|0062-020|67|28' id='28' form='ἐπανάστασιν' lemma='ἐπανάστασις' postag='n-s---fa-' relation='OBJ' head='32'/>
-<word ref='Leuven|0062-020|67|30' id='30' form='ἐπ£' lemma='ἐπί' postag='r--------' relation='AuxP' head='27'/>
+<word ref='Leuven|0062-020|67|30' id='30' form='ἐπ̓' lemma='ἐπί' postag='r--------' relation='AuxP' head='27'/>
 <word ref='Leuven|0062-020|67|31' id='31' form='αὐτὸν' lemma='αὐτός' postag='p-s---ma-' relation='ATR' head='30'/>
 <word ref='Leuven|0062-020|67|32' id='32' form='βουλεύσωσι' lemma='βουλεύω' postag='v3pasa---' relation='OBJ_CO' head='33'/>
 <word ref='Leuven|0062-020|67|33' id='33' form='καὶ' lemma='καί' postag='c--------' relation='COORD' head='25'/>
@@ -1751,7 +1751,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 <word ref='Leuven|0062-020|67|42' id='42' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
 </sentence>
 <sentence id='68' document_id='0062-020' subdoc=' 1-21'>
-<word ref='Leuven|0062-020|68|1' id='1' form='ἀλλ£' lemma='ἀλλά' postag='c--------' relation='AuxY' head='19'/>
+<word ref='Leuven|0062-020|68|1' id='1' form='ἀλλ̓' lemma='ἀλλά' postag='c--------' relation='AuxY' head='19'/>
 <word ref='Leuven|0062-020|68|2' id='2' form='ὅτι' lemma='ὅτι2' postag='c--------' relation='AuxC' head='19'/>
 <word ref='Leuven|0062-020|68|3' id='3' form='μὲν' lemma='μέν' postag='d--------' relation='AuxY' head='19'/>
 <word ref='Leuven|0062-020|68|4' id='4' form='δὴ' lemma='δή' postag='d--------' relation='AuxY' head='19'/>
@@ -1809,7 +1809,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 <word ref='Leuven|0062-020|69|16' id='16' form='ἅπασαν' lemma='ἅπας' postag='a-s---fa-' relation='ATR' head='18'/>
 <word ref='Leuven|0062-020|69|17' id='17' form='τὴν' lemma='ὁ' postag='l-s---fa-' relation='ATR' head='18'/>
 <word ref='Leuven|0062-020|69|18' id='18' form='γῆν' lemma='γῆ' postag='n-s---fa-' relation='SBJ' head='23'/>
-<word ref='Leuven|0062-020|69|19' id='19' form='οὐκέτ£' lemma='οὐκέτι' postag='d--------' relation='ADV' head='23'/>
+<word ref='Leuven|0062-020|69|19' id='19' form='οὐκέτ̓' lemma='οὐκέτι' postag='d--------' relation='ADV' head='23'/>
 <word ref='Leuven|0062-020|69|20' id='20' form='αὐχμηρὰν' lemma='αὐχμηρός' postag='a-s---fa-' relation='PNOM_CO' head='21'/>
 <word ref='Leuven|0062-020|69|21' id='21' form='καὶ' lemma='καί' postag='c--------' relation='COORD' head='23'/>
 <word ref='Leuven|0062-020|69|22' id='22' form='ἀκαλλῆ' lemma='ἀκαλλής' postag='a-s---fa-' relation='PNOM_CO' head='21'/>
@@ -1852,7 +1852,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 <word ref='Leuven|0062-020|70|6' id='6' form='ἀγυιαί' lemma='ἀγυιά' postag='n-p---fn-' relation='SBJ' head='1'/>
 <word ref='Leuven|0062-020|70|7' id='7' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='9'/>
 <word ref='Leuven|0062-020|70|8' id='8' form='πᾶσαι' lemma='πᾶς' postag='a-p---fn-' relation='ATR' head='11'/>
-<word ref='Leuven|0062-020|70|9' id='9' form='δ£' lemma='δέ' postag='d--------' relation='COORD' head='0'/>
+<word ref='Leuven|0062-020|70|9' id='9' form='δ̓' lemma='δέ' postag='d--------' relation='COORD' head='0'/>
 <word ref='Leuven|0062-020|70|10' id='10' form='ἀνθρώπων' lemma='ἄνθρωπος' postag='n-p---mg-' relation='OBJ' head='13'/>
 <word ref='Leuven|0062-020|70|11' id='11' form='ἀγοραί' lemma='ἀγορά' postag='n-p---fn-' relation='SBJ' head='13'/>
 <word ref='Leuven|0062-020|70|12' id='12' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
@@ -1972,7 +1972,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 <word ref='Leuven|0062-020|75|1' id='1' form='πρὸς' lemma='πρός' postag='r--------' relation='AuxP' head='5'/>
 <word ref='Leuven|0062-020|75|2' id='2' form='δὴ' lemma='δή' postag='d--------' relation='AuxY' head='5'/>
 <word ref='Leuven|0062-020|75|3' id='3' form='τί' lemma='τίς' postag='p-s---na-' relation='ADV' head='1'/>
-<word ref='Leuven|0062-020|75|4' id='4' form='τοῦτ£' lemma='οὗτος' postag='p-s---na-' relation='OBJ' head='5'/>
+<word ref='Leuven|0062-020|75|4' id='4' form='τοῦτ̓' lemma='οὗτος' postag='p-s---na-' relation='OBJ' head='5'/>
 <word ref='Leuven|0062-020|75|5' id='5' form='ἔφην' lemma='φημί' postag='v1siia---' relation='PRED' head='0'/>
 <word ref='Leuven|0062-020|75|6' id='6' form=';' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
 </sentence>
@@ -1997,7 +1997,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 <word ref='Leuven|0062-020|76|18' id='18' form='ἐμέλλομεν' lemma='μέλλω' postag='v1piia---' relation='PRED' head='0'/>
 <word ref='Leuven|0062-020|76|19' id='19' form='οὔ' lemma='οὐ' postag='d--------' relation='AuxZ' head='24'/>
 <word ref='Leuven|0062-020|76|20' id='20' form='-τε' lemma='τε' postag='d--------' relation='AuxY' head='19'/>
-<word ref='Leuven|0062-020|76|21' id='21' form='ὑπ£' lemma='ὑπό' postag='r--------' relation='AuxP' head='24'/>
+<word ref='Leuven|0062-020|76|21' id='21' form='ὑπ̓' lemma='ὑπό' postag='r--------' relation='AuxP' head='24'/>
 <word ref='Leuven|0062-020|76|22' id='22' form='ἄλλου' lemma='ἄλλος' postag='p-s---mg-' relation='ATR' head='23'/>
 <word ref='Leuven|0062-020|76|23' id='23' form='τινὸς' lemma='τις' postag='p-s---cg-' relation='ADV' head='21'/>
 <word ref='Leuven|0062-020|76|24' id='24' form='θαυμασθησόμενον' lemma='θαυμάζω' postag='v-sfppma-' relation='ATR_CO' head='25'/>
@@ -2018,7 +2018,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 <word ref='Leuven|0062-020|76|39' id='39' form='παραθεωρῶμεν' lemma='παραθεωρέω' postag='v1ppsa---' relation='OBJ' head='34'/>
 <word ref='Leuven|0062-020|76|40' id='40' form='αὐτόν' lemma='αὐτός' postag='p-s---ma-' relation='OBJ' head='39'/>
 <word ref='Leuven|0062-020|76|41' id='41' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='0'/>
-<word ref='Leuven|0062-020|76|42' id='42' form='οὐδ£' lemma='οὐδέ' postag='d--------' relation='COORD' head='32'/>
+<word ref='Leuven|0062-020|76|42' id='42' form='οὐδ̓' lemma='οὐδέ' postag='d--------' relation='COORD' head='32'/>
 <word ref='Leuven|0062-020|76|43' id='43' form='ἂν' lemma='ἄν2' postag='c--------' relation='AuxY' head='44'/>
 <word ref='Leuven|0062-020|76|44' id='44' form='συνίεμεν' lemma='συνίημι' postag='v1piia---' relation='PRED_CO' head='42'/>
 <word ref='Leuven|0062-020|76|45' id='45' form='ἡλίκα' lemma='ἡλίκος' postag='a-p---na-' relation='ADV' head='44'/>
@@ -2097,7 +2097,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 <word ref='Leuven|0062-020|80|10' id='10' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
 </sentence>
 <sentence id='81' document_id='0062-020' subdoc=' 1-21'>
-<word ref='Leuven|0062-020|81|1' id='1' form='παρ£' lemma='παρά' postag='r--------' relation='AuxP' head='9'/>
+<word ref='Leuven|0062-020|81|1' id='1' form='παῤ' lemma='παρά' postag='r--------' relation='AuxP' head='9'/>
 <word ref='Leuven|0062-020|81|2' id='2' form='ἡμῖν' lemma='ἡμεῖς' postag='p1p---cd-' relation='ADV' head='1'/>
 <word ref='Leuven|0062-020|81|3' id='3' form='γὰρ' lemma='γάρ' postag='d--------' relation='AuxY' head='9'/>
 <word ref='Leuven|0062-020|81|4' id='4' form='οὐχὶ' lemma='οὐ' postag='d--------' relation='AuxZ' head='9'/>
@@ -2113,7 +2113,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 <word ref='Leuven|0062-020|82|3' id='3' form='δήπου' lemma='δήπου' postag='d--------' relation='AuxY' head='6'/>
 <word ref='Leuven|0062-020|82|4' id='4' form='διὰ' lemma='διά' postag='r--------' relation='AuxP' head='6'/>
 <word ref='Leuven|0062-020|82|5' id='5' form='τοῦτο' lemma='οὗτος' postag='p-s---na-' relation='ADV' head='4'/>
-<word ref='Leuven|0062-020|82|6' id='6' form='αἰτιάσαιτ£' lemma='αἰτιάομαι' postag='v3saom---' relation='PRED' head='0'/>
+<word ref='Leuven|0062-020|82|6' id='6' form='αἰτιάσαιτ̓' lemma='αἰτιάομαι' postag='v3saom---' relation='PRED' head='0'/>
 <word ref='Leuven|0062-020|82|7' id='7' form='ἄν' lemma='ἄν1' postag='d--------' relation='AuxY' head='6'/>
 <word ref='Leuven|0062-020|82|8' id='8' form='τις' lemma='τις' postag='p-s---cn-' relation='SBJ' head='6'/>
 <word ref='Leuven|0062-020|82|9' id='9' form='τὸν' lemma='ὁ' postag='l-s---ma-' relation='ATR' head='10'/>
@@ -2227,7 +2227,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 <word ref='Leuven|0062-020|89|3' id='3' form='μάλιστά' lemma='μάλα' postag='d-------s' relation='AuxZ' head='5'/>
 <word ref='Leuven|0062-020|89|4' id='4' form='με' lemma='ἐγώ' postag='p1s---ca-' relation='OBJ' head='5'/>
 <word ref='Leuven|0062-020|89|5' id='5' form='πνίγει' lemma='πνίγω' postag='v3spia---' relation='PNOM' head='7'/>
-<word ref='Leuven|0062-020|89|6' id='6' form='τοῦτ£' lemma='τοῦτʼ' postag='p-s---nn-' relation='SBJ_AP' head='8'/>
+<word ref='Leuven|0062-020|89|6' id='6' form='τοῦτ̓' lemma='τοῦτʼ' postag='p-s---nn-' relation='SBJ_AP' head='8'/>
 <word ref='Leuven|0062-020|89|7' id='7' form='ἐστίν' lemma='εἰμί' postag='v3spia---' relation='PRED' head='0'/>
 <word ref='Leuven|0062-020|89|8' id='8' form=',' lemma='punc1' postag='u--------' relation='APOS' head='7'/>
 <word ref='Leuven|0062-020|89|9' id='9' form='ὅτι' lemma='ὅτι2' postag='c--------' relation='AuxC_AP' head='8'/>
@@ -2267,7 +2267,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 <word ref='Leuven|0062-020|89|43' id='43' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
 </sentence>
 <sentence id='90' document_id='0062-020' subdoc=' 1-21'>
-<word ref='Leuven|0062-020|90|1' id='1' form='ἀλλ£' lemma='ἀλλʼ' postag='d--------' relation='AuxY' head='2'/>
+<word ref='Leuven|0062-020|90|1' id='1' form='ἀλλ̓' lemma='ἀλλʼ' postag='d--------' relation='AuxY' head='2'/>
 <word ref='Leuven|0062-020|90|2' id='2' form='ἐχρῆν' lemma='χρή' postag='v3siia---' relation='PRED' head='0'/>
 <word ref='Leuven|0062-020|90|3' id='3' form='μέν' lemma='μέν' postag='d--------' relation='AuxY' head='2'/>
 <word ref='Leuven|0062-020|90|4' id='4' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='5'/>
@@ -2578,7 +2578,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 <word ref='Leuven|0062-020|110|8' id='8' form=';' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
 </sentence>
 <sentence id='111' document_id='0062-020' subdoc=' 1-21'>
-<word ref='Leuven|0062-020|111|1' id='1' form='ἀλλ£' lemma='ἀλλά' postag='c--------' relation='AuxY' head='3'/>
+<word ref='Leuven|0062-020|111|1' id='1' form='ἀλλ̓' lemma='ἀλλά' postag='c--------' relation='AuxY' head='3'/>
 <word ref='Leuven|0062-020|111|2' id='2' form='οὐ' lemma='οὐ' postag='d--------' relation='AuxZ' head='3'/>
 <word ref='Leuven|0062-020|111|3' id='3' form='χρὴ' lemma='χρή' postag='v3spia---' relation='PRED' head='0'/>
 <word ref='Leuven|0062-020|111|4' id='4' form='λέγειν' lemma='λέγω1' postag='v--pna---' relation='SBJ' head='3'/>
@@ -2608,7 +2608,7 @@ Milan Valadou; Olympe De Backer; Sigrid Keupers; Stijn Vangenechten; Thomas Valg
 <word ref='Leuven|0062-020|112|5' id='5' form='Τιτάν' lemma='Τιτάν' postag='n-s---mv-' relation='ExD' head='0'/>
 <word ref='Leuven|0062-020|112|6' id='6' form=',' lemma='punc1' postag='u--------' relation='AuxX' head='5'/>
 <word ref='Leuven|0062-020|112|7' id='7' form='εἰ' lemma='εἰ' postag='c--------' relation='AuxC' head='2'/>
-<word ref='Leuven|0062-020|112|8' id='8' form='τοῦτ£' lemma='τοῦτο' postag='p-s---nn-' relation='SBJ' head='11'/>
+<word ref='Leuven|0062-020|112|8' id='8' form='τοῦτ̓' lemma='τοῦτο' postag='p-s---nn-' relation='SBJ' head='11'/>
 <word ref='Leuven|0062-020|112|9' id='9' form='ἄμεινον' lemma='ἀγαθός' postag='a-s---nnc' relation='PNOM' head='11'/>
 <word ref='Leuven|0062-020|112|10' id='10' form='.' lemma='punc1' postag='u--------' relation='AuxK' head='0'/>
 <word ref='Leuven|0062-020|112|11' id='11' form='ἐστι' lemma='εἰμί' postag='v3spia---' relation='ADV' head='7' artificial='elliptic' insertion_id='0009e'/>
